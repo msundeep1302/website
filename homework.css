@@ -1,0 +1,26 @@
+h1.b1
+{
+text-align:center;
+text-decoration:underline;
+}
+p.a4
+{
+font: italic bold 12px/30px Georgia, serif;
+}
+  
+p.a3 
+{
+font: 15px times, sans-serif;
+}
+
+p.a2::first-line
+{
+    background-color: #00FFCC;
+} 
+p.a1::first-letter
+{
+font-size: 220%;
+color: red;
+}
+
+
